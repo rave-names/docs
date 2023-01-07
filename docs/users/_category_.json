@@ -1,0 +1,8 @@
+{
+  "label": "User Tutorials",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn to use Rave!"
+  }
+}
